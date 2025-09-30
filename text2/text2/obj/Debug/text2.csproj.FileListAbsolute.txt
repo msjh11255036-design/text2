@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\text2\text2\bin\Debug\text2.exe.config
+C:\Users\user\source\repos\text2\text2\bin\Debug\text2.exe
+C:\Users\user\source\repos\text2\text2\bin\Debug\text2.pdb
+C:\Users\user\source\repos\text2\text2\obj\Debug\text2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\text2\text2\obj\Debug\text2.Form1.resources
+C:\Users\user\source\repos\text2\text2\obj\Debug\text2.Properties.Resources.resources
+C:\Users\user\source\repos\text2\text2\obj\Debug\text2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\text2\text2\obj\Debug\text2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\text2\text2\obj\Debug\text2.exe
+C:\Users\user\source\repos\text2\text2\obj\Debug\text2.pdb
+C:\Users\user\source\repos\text2\text2\obj\Debug\text2.exe.config
